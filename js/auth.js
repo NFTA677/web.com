@@ -10,7 +10,7 @@ function safeParseJSON(str, fallback) {
 
 const defaultUsers = {
   admin: {
-    password: 'adminpass',
+    password: 'Li197189.13',
     name: 'Administrador',
     color: '#2c3e50',
     email: 'admin@nfta-corp.com',
